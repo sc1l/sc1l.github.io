@@ -1,0 +1,35 @@
+ul.header {
+    list-style-type: none;
+}
+
+li.header {
+    display: inline;
+    margin-right: 65px;
+    font-size: 20px;
+}
+
+a#link {
+    color: black;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    transition: 0.5s;
+    font-weight: lighter;
+}
+
+a#link:hover {
+    background-color: #eee;
+}
+
+a#link:visited {
+    color: black;
+    text-decoration: none;
+}
+
+#such1lif {
+    font-size: 25px;
+    font-weight: bold;
+}
+
